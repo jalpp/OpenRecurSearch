@@ -1,9 +1,6 @@
 # OpenRecurSearch
 
-Open Multi Agent Research Web Interface, backed by recursearch algo, generate
-research reports, see agents + jev live in action all on your local machine
-using models you like.
-
+A real open AI agent + jev web interface that searches the web and creates research reports
 
 Ask a question in the chat. Each research layer and each Jev decision appears there live, with its option probabilities, score and latency. Meanwhile the markdown report streams into the side panel.
 
@@ -11,7 +8,7 @@ Ask a question in the chat. Each research layer and each Jev decision appears th
 
 ## Recursearch Info
 
-view detailed info about Recursearch [here]()
+view detailed info about Recursearch [here](https://github.com/jalpp/recursearch)
 
 ## How OpenRecurSearch Works
 
